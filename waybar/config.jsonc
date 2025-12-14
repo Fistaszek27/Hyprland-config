@@ -1,0 +1,31 @@
+{
+	"layer": "top",
+	"position": "top",
+	"modules-right": ["custom/power"],
+	"modules-left": ["custom/clock", "custom/wifi"],
+	"font": "JetBrainsMono Nerd Font, ttf-nerd-fonts-symbols-mono",
+
+	"custom/power":{
+
+		"format": "⏻",
+		"tooltip": "Power off",
+		"on-click": "systemctl poweroff",
+	
+	},
+
+	"custom/clock":{
+	
+		"exec": "date '+%H:%M'",
+		"interval": 60,
+		"font": "JetBrains Mono Nerd Font:size=12",
+		
+
+	},
+	"custom/wifi":{
+		
+		"interface": "wlan1",
+		"format": "\uF1EB",
+		"on-click": "~/hyprland-config-Fistaszek/scripts/wifi-waybar-butoon"
+
+	}
+}

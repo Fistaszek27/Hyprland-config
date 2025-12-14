@@ -1,0 +1,11 @@
+IFACE="wlan1"
+
+echo "$(date) klikniet wifi" >> /etc/xdg/waybar/wifi.log
+
+if ip addr show "$IFACE" | grep -q "inet "; then
+	sudo dhcpcd -x "$IFACE"
+	sudo ip link set "$IFACE" down
+else
+	sudo ip link set "$IFACE" up
+	sudo dhcpcd "$IFACE"
+fi

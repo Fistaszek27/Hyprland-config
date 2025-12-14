@@ -1,0 +1,46 @@
+
+* {
+    /* do fontow i ikonek */
+     font-family: "Hack Nerd Font","JetBrains Mono Nerd Font", "Font Awesome 6 Free", "SymbolsNerdFont", sans-serif;
+}
+
+window {
+
+	background: rgba(0,0,0,0.05);
+	color: white;
+	font-family: sans-serif;
+	font-size: 10px;
+	margin-top: 20px;
+	margin-left: 30px;
+	margin-right: 20px;
+	padding: 4px 2px;
+	box-shadow: 0 4px 10px rgba(0,0,0,0.4);
+
+}
+#custom-power{
+
+	padding: 2px 6px;
+	margin-right: 10px;
+	border-radius: 8px;
+	color: rgba(255, 255, 255, 0.5);
+	font-size: 35px;
+
+
+}
+#custom-clock{
+
+	padding: 2px 12px;
+	border-radius: 8px;
+	color: rgba(255,255,255, 0.5);
+	font-size: 35px;
+
+}
+#custom-wifi{  
+
+	padding: 10px 10px;
+	margin-right: 12px;
+	border-radius: 8px;
+	color: rgba(255,255,255, 0.5);
+	font-size: 35;
+
+}
