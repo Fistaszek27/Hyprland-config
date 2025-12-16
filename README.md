@@ -11,6 +11,5 @@ newtorkmanager
 copy folder ~/.config
 
 ##
-nie odpwaidam za nie dziaanie przycisku wifi
-# Hyprland-config
-# Hyprland-config
+##nie odpwaidam za nie dziaanie przycisku wifi
+
