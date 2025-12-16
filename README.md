@@ -1,4 +1,4 @@
-# hyprland configuratiom
+# Hyprland Configuratiom
 
 ## Dependencies
 hyprland
@@ -10,6 +10,6 @@ newtorkmanager
 ## Instalation
 copy folder ~/.config
 
-##
-##nie odpwaidam za nie dziaanie przycisku wifi
+
+## nie odpwaidam za nie dziaanie przycisku wifi
 
