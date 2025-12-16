@@ -7,7 +7,7 @@ wybar
 pipewire
 newtorkmanager
 
-## Instalation
+## Installation
 copy folder ~/.config
 
 
