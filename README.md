@@ -1,4 +1,4 @@
-# Hyprland Configuratiom
+# Hyprland Configuration
 
 ## Dependencies
 hyprland
