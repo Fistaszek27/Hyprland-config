@@ -11,5 +11,5 @@ newtorkmanager
 copy folder ~/.config
 
 
-## nie odpwaidam za nie dziaanie przycisku wifi
+## nie odpowaidam za nie działanie przycisku wifi
 
