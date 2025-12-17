@@ -3,13 +3,13 @@
 ## Dependencies
 hyprland
 kitty
-wybar
+waybar
 pipewire
-newtorkmanager
+networkmanager
 
 ## Installation
 copy folder ~/.config
 
 
-## nie odpowaidam za nie działanie przycisku wifi
+## nieodpowiadam za nie działanie przycisku wifi
 
