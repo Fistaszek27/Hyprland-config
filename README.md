@@ -11,5 +11,5 @@ networkmanager
 copy folder ~/.config
 
 
-## nieodpowiadam za nie działanie przycisku wifi
+## nie odpowiadam za niedziałanie przycisku wifi
 
